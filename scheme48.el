@@ -8,6 +8,8 @@
 ;;         Jorgen Schaefer <forcer@forcix.cx> (scheme48-mode)
 ;; URL: http://www.emacswiki.org/cgi-bin/emacs/Scheme48Mode
 
+;; License: BSD-3-clause
+
 ;; Redistribution and use in source and binary forms, with or without
 ;; modification, are permitted provided that the following conditions
 ;; are met:
